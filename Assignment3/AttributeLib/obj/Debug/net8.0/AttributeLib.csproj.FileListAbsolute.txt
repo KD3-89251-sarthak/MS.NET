@@ -1,0 +1,11 @@
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\bin\Debug\net8.0\AttributeLib.deps.json
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\bin\Debug\net8.0\AttributeLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\bin\Debug\net8.0\AttributeLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\AttributeLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\AttributeLib.AssemblyInfoInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\AttributeLib.AssemblyInfo.cs
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\AttributeLib.csproj.CoreCompileInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\AttributeLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\refint\AttributeLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\AttributeLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\AttributeLib\obj\Debug\net8.0\ref\AttributeLib.dll

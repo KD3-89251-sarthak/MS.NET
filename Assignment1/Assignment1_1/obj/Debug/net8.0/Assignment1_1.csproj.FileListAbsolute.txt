@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\bin\Debug\net8.0\Assignment1_1.exe
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\bin\Debug\net8.0\Assignment1_1.deps.json
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\bin\Debug\net8.0\Assignment1_1.runtimeconfig.json
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\bin\Debug\net8.0\Assignment1_1.dll
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\bin\Debug\net8.0\Assignment1_1.pdb
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.dll
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\refint\Assignment1_1.dll
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.pdb
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\Assignment1_1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Assignment1_1\Assignment1_1\obj\Debug\net8.0\ref\Assignment1_1.dll

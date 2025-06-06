@@ -1,0 +1,15 @@
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\bin\Debug\net8.0\EntityLib.deps.json
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\bin\Debug\net8.0\EntityLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\bin\Debug\net8.0\EntityLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\bin\Debug\net8.0\AttributeLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\bin\Debug\net8.0\AttributeLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.csproj.AssemblyReference.cache
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.AssemblyInfoInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.AssemblyInfo.cs
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.csproj.CoreCompileInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.csproj.Up2Date
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\refint\EntityLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\EntityLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\PoJoLib\obj\Debug\net8.0\ref\EntityLib.dll

@@ -1,0 +1,14 @@
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\bin\Debug\net8.0\TestApplication.exe
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\bin\Debug\net8.0\TestApplication.deps.json
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\bin\Debug\net8.0\TestApplication.runtimeconfig.json
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\bin\Debug\net8.0\TestApplication.dll
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\bin\Debug\net8.0\TestApplication.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.AssemblyInfoInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.AssemblyInfo.cs
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.csproj.CoreCompileInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.dll
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\refint\TestApplication.dll
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\TestApplication.genruntimeconfig.cache
+F:\Disk HDD (H)\netPractice\Assignment3\TestApplication\obj\Debug\net8.0\ref\TestApplication.dll

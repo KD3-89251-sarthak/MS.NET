@@ -1,0 +1,11 @@
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\bin\Debug\net8.0\MathLib.deps.json
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\bin\Debug\net8.0\MathLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\bin\Debug\net8.0\MathLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\MathLib.AssemblyInfoInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\MathLib.AssemblyInfo.cs
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\MathLib.csproj.CoreCompileInputs.cache
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\MathLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\refint\MathLib.dll
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\MathLib.pdb
+F:\Disk HDD (H)\netPractice\Assignment3\MathLib\obj\Debug\net8.0\ref\MathLib.dll
